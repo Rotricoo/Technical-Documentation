@@ -19,11 +19,9 @@ The goal was to create a modern, accessible, and fully responsive technical docu
 - **Focus Mode:** Dim non-active sections for distraction-free reading.
 - **Dark/Light Mode:** Toggle between light and dark themes.
 - **Language Switcher:** Switch between English and Portuguese.
-- **Animated Section Entry:** Sections fade in as you scroll.
 - **Mobile Hamburger Menu:** Collapsible sidebar for mobile usability.
 - **Back to Top Button:** Quickly return to the top of the page on mobile.
-- **Accessible:** Keyboard navigation and ARIA labels.
-
+  
 ---
 
 ## Demo
@@ -71,21 +69,8 @@ The goal was to create a modern, accessible, and fully responsive technical docu
 ## Tech Stack
 
 - HTML5
-- CSS3 (with CSS custom properties and responsive design)
+- CSS3
 - Vanilla JavaScript
-
----
-
-## Project Structure
-
-```
-/
-├── index.html
-├── styles.css
-├── script.js
-├── lang.js
-└── README.md
-```
 
 ---
 
@@ -95,8 +80,3 @@ The goal was to create a modern, accessible, and fully responsive technical docu
 - Project based on the FreeCodeCamp Responsive Web Design curriculum.
 - Documentation content inspired by [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).
 
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
