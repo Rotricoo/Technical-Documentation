@@ -77,6 +77,6 @@ The goal was to create a modern, accessible, and fully responsive technical docu
 ## Credits
 
 - Created by [Rodrigo Souza](https://www.linkedin.com/in/rotrico)
-- Project based on the FreeCodeCamp Responsive Web Design curriculum.
+- Project based on the FreeCodeCamp Certified Full Stack Developer Curriculum.
 - Documentation content inspired by [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).
 
